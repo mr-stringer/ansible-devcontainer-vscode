@@ -31,9 +31,9 @@
 
 	// Add the IDs of extensions you want installed when the container is created in the array below.
 	"extensions": [
-		"vscoss.vscode-ansible",
-		"redhat.vscode-yaml",
-		"ms-vscode.azurecli",
+		"redhat.ansible",
+                "davidanson.vscode-markdownlint",
+                "streetsidesoftware.code-spell-checker",
 		"ms-azuretools.vscode-docker"
 	]
 }
