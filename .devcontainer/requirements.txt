@@ -1,8 +1,9 @@
-ansible>=2.8.0
+ansible=9.1.0
+ansible-lint=6.22.1
 azure-datalake-store
 python-memcached
 psutil
-pip>=19.1
+pip>=23.3.2
 netaddr
 pylint
 jsonschema
